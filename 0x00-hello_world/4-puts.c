@@ -1,9 +1,10 @@
 #include <stdio.h>
+
 /**
  *
- * main - printing
+ * main - Printing successful
  *
- * Return: Always 0 (successful)
+ * Return: Always 0 (successful printing)
  */
 int main(void)
 {
