@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main -prints a code lover
+ * main - prints a code lover
  *
- * return: always 0 (lover of code)
+ * Return: always 0 (lover of code)
  */
+int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 
