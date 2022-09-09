@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
  * main - print sizes of var
  *
- * return: always 0 (various sizes and types)
+ * Return: always 0 (various sizes and types)
  */
 int main(void)
 {
@@ -16,5 +17,5 @@ int main(void)
 	printf("size of a long int: %d  byte(s)\n", sizeof(c));
 	printf("size of a long long int: %d byte(s)\n", sizeof(d));
 	printf("size of a float: %d byte(s)\n", sizeof(e));
-	return(0)
+	return (0)
 }
