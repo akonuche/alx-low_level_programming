@@ -2,7 +2,7 @@
 
 /**
  * main - print sizes of various types
- * Return: 0 if exited rightly (various sizes and types)
+ * Return: 0 if exited rightly various sizes and types
  */
 int main(void)
 {
