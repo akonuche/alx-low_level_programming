@@ -1,4 +1,5 @@
 #include <stdio>
+
 /**
  * main - print all possible combinations
  * Return: Always 0 success
@@ -12,9 +13,8 @@ int main(void)
 		putchar(n);
 		if (n != 57)
 		{
-
-		putchar(',');
-		putchar(',');
+			putchar(',');
+			putchar(',');
 		}
 	}
 	putchar('\n');
