@@ -2,7 +2,7 @@
 
 /**
  * main - print sizes of various types
- * Return: 0 if excited properly, non-zero otherwise 
+ * Return: 0 if excited properly, non-zero otherwise
  */
 int main(void)
 {
