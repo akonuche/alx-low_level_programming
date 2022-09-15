@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - finds and print the sum of the even-valued term followed by a new line
+ * main - finds and print the sum of the even-valued term
+ * followed by a new line
  * Return: Always 0 success
  */
 int main(void)
@@ -9,7 +10,7 @@ int main(void)
 	int i;
 	unsigned long int j, k, next, sum;
 
-	j =1;
+	j = 1;
 	k = 2;
 	sum = 0;
 
