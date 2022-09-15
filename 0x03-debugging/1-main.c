@@ -21,3 +21,4 @@ while (i < 10)
 printf("infinite loop avoided! \\o/\n");
 
 return (0);
+}
