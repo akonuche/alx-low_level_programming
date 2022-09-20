@@ -6,7 +6,7 @@
  *
  * Return: Always 0
  */
-int main(voi)
+int main(void)
 {
 	int n;
 
@@ -14,5 +14,6 @@ int main(voi)
 	printf("n=%d\n", n);
 	reset_to_98(&n);
 	printf("n=%d\n", n);
+
 	return (0);
 }
